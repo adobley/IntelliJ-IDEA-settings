@@ -1,0 +1,11 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory '/Users/adobley/Repos/yadaguru-api/sql/src'" />
+    <option name="defaultScopeName" value="Directory '/Users/adobley/Repos/yadaguru-api/sql/src'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/adobley/Repos/yadaguru-api/sql/src'" />
+  </component>
+</application>
