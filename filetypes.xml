@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
-      <mapping pattern=".eslintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintrc" type="ESLint file" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".eshintrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
