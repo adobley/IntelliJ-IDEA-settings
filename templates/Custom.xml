@@ -1,13 +1,9 @@
 <templateSet group="Custom">
   <template name="test" value="@org.junit.Test&#10;public void should$EXPR$() {&#10;    $END$&#10;}" description="Generate tests more easily" toReformat="false" toShortenFQNames="true">
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
+    <context />
   </template>
   <template name="before" value="@org.junit.Before&#10;public void setup() {&#10;    $END$&#10;}" description="Generate setup test method" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
