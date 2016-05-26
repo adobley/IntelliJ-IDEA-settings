@@ -284,6 +284,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/capybara-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.5.9, RVM: ruby-2.1.6) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/childprocess-0.5.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/childprocess-0.5.9/lib" />
+      </SOURCES>
+    </library>
     <library name="cliver (v0.3.2, RVM: ruby-2.1.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/cliver-0.3.2/lib" />
@@ -1782,6 +1790,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/warden-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket (v1.2.3, RVM: ruby-2.1.6) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/websocket-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/websocket-1.2.3/lib" />
       </SOURCES>
     </library>
     <library name="websocket-driver (v0.3.4, RVM: ruby-2.1.6) [gem]">
