@@ -4,7 +4,6 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="ts" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
-      <removed_mapping ext="ts" type="TypoScript File" />
       <mapping pattern=".eslintrc" type="ESLint file" />
     </extensionMap>
   </component>
